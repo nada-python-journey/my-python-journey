@@ -1,10 +1,6 @@
-
-# Python Basics 🐍
-
-هذا أول مشروع إلي على GitHub 🌱  
+here# Python Basics 🐍
+هذا أول مشروع إلي 🌱
 أتعلم فيه:
 - Python
 - GitHub
-- Cybersecurity (Ethical)
-
-التعلم خطوة خطوة 💪
+- Cybersecurity
