@@ -1,2 +1,10 @@
-# my-python-journey
-Beginner in Python &amp; Cybersecurity Learning step by step 🌱 
+
+# Python Basics 🐍
+
+هذا أول مشروع إلي على GitHub 🌱  
+أتعلم فيه:
+- Python
+- GitHub
+- Cybersecurity (Ethical)
+
+التعلم خطوة خطوة 💪
